@@ -36,4 +36,6 @@ This tool is a proper PSB Editor, can help you with the .pimg, .psb, .scn too.
     
     note:
     直接在打开*.scn时输出到H:\YUZUSOFT\scn.txt，先不要退出，打开文本进行编辑（可以使用强大的正则），保存修改后文本后，程序中保存即可生成scn。
+    最终效果如下：
+    ![最终效果](test.jpg)
     
